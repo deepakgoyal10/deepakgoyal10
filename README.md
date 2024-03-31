@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deepakgoyal1886@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_4U_1LGoJ50HrqYODCjHnHk4TS4n0GBI/view](https://drive.google.com/file/d/1_4U_1LGoJ50HrqYODCjHnHk4TS4n0GBI/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Zma2ITzAXTdaxnNYzU1a0OOiW3_0CFNE/view?usp=drive_open)
 
 - ⚡ Fun fact **I code better with dual screens**
 
