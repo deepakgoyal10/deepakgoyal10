@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Goyal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgoyal10&label=Profile%20views&color=0e75b6&style=flat" alt="deepakgoyal10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakgoyal10&label=Profile%20views&color=0e75b6&style=flat" alt="deepakgoyal1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepak00689579" target="blank"><img src="https://img.shields.io/twitter/follow/deepak00689579?logo=twitter&style=for-the-badge" alt="deepak00689579" /></a> </p>
 
